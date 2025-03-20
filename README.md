@@ -1,4 +1,4 @@
-# HayawiAuto.github.io
+# HayawiAuto
 Hayawi Auto Center . Repair Shop . Windsor Ontario
 
 To-do list:
