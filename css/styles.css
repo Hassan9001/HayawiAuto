@@ -413,7 +413,7 @@ footer{padding:50px 0}
 
 
 /* ___________________________________________________________CONTACT ME*/
-#contact{padding:50px 15px;background:#13460f;text-align:center;
+#contact{padding:50px 15px;background:#0a1579;text-align:center;
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);/*#adds a shadow*/
 }
     
@@ -491,3 +491,6 @@ footer{padding:50px 0}
     #lead-content h2{font-size:1em}
     #lead-content h3 {font-size:0.7em}
     #lead-content a{font-size:0.9em;padding:5px 10px}}
+
+
+.stars i{color: #FFD700;   /* gold star color */}
